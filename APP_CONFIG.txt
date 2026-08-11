@@ -1,0 +1,5 @@
+AI endpoint used by the Android build:
+https://smart-eating-delta.vercel.app/api/ai
+
+If your Vercel deployment URL changes, update window.SMARTMEAL_API_URL in:
+app/src/main/assets/web/index.html
